@@ -45,7 +45,7 @@ Make sure you have these installed:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/fittrack.git
+git clone https://github.com/DevenGajjar/My-Fit.git
 
 # Navigate to the project folder
 cd fittrack
