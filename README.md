@@ -28,7 +28,8 @@ This project is built with:
 
 ## 📸 Screenshots
 
-> *(Add some screenshots or a demo GIF here to show off your UI)*
+![Screenshot 2025-06-14 223733](https://github.com/user-attachments/assets/8e7c1db0-239a-4240-bff7-3d3b0612bf1a)
+
 
 ---
 
