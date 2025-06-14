@@ -49,7 +49,7 @@ Make sure you have these installed:
 git clone https://github.com/DevenGajjar/My-Fit.git
 
 # Navigate to the project folder
-cd fittrack
+cd My-Fit
 
 # Install dependencies
 npm install
